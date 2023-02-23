@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://www.sitepoint.com/wp-content/uploads/2012/12/Final.jpg");
+    background-size: cover;
+    height: 120vh;
+    padding: 20px;
+    color: #fff;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: #cc0000;
+    text-align: center;
+}
+
+.info-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: #cc0000;
+    text-align: center;
+}
+
+.card-container {
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+.button {
+    background-color: blue;
+    border-width: 0px;
+    color: #ffffff;
+    width: 100px;
+    border-radius: 10px;
+    height: 35px;
+}
+
+
